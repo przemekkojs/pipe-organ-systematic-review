@@ -1,0 +1,13 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+1	amplitude	0.5789	-0.0652	1	7	8	3	2004
+2	cavity	0.8632	-0.0255	1	6	10	3	2003.6667
+3	clarinet	-0.6363	-0.104	2	5	9	3	2004
+4	flow tone	0.8881	0.0996	1	6	9	2	2003
+5	instrument	-0.6653	-0.2017	2	6	14	5	2004.2
+6	model	-0.9172	0.0118	2	6	14	5	2003.8
+7	physical model	-0.5163	0.1782	2	9	14	5	2003.2
+8	pipeline cavity system	0.9577	0.0738	1	6	9	2	2003
+9	pressure	0.3542	-0.07	1	8	8	2	2003.5
+10	single reed wind instrument	-1.0227	0.3335	2	2	3	2	2002.5
+11	tone	0.9556	-0.0137	1	6	9	3	2003.3333
+12	wind instrument	-0.8399	-0.2168	2	5	9	3	2004

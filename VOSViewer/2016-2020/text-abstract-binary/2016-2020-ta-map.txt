@@ -1,0 +1,13 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+1	flute	0.1378	-0.2555	1	9	9	2	2017
+2	focus	-0.1075	0.8386	3	4	5	2	2017.5
+3	frequency	-0.749	-0.1223	2	6	10	4	2017.5
+4	modelling	0.964	-0.1908	1	4	5	2	2017.5
+5	ngering	-0.4072	-0.6703	2	5	6	3	2017
+6	optimization method	-0.6363	-0.5553	2	5	5	2	2017.5
+7	organ pipe	-0.3917	0.6449	3	5	9	4	2017.5
+8	parameter	0.8755	0.1553	1	4	5	3	2018
+9	pipe	-0.5889	0.1619	2	7	12	5	2017
+10	pressure	0.4031	0.31	1	7	7	2	2018.5
+11	role	-0.2535	0.0824	2	8	11	3	2018
+12	wind musical instrument	0.7537	-0.3988	1	4	4	2	2018.5

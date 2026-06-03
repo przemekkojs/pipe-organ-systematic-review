@@ -1,0 +1,9 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+1	analysis	0.505	0.3778	1	2	2	3	2022
+2	flue organ pipe	-0.0339	0.71	2	1	2	2	2021.5
+3	flute wind musical instrument	-0.4983	-0.5425	3	0	0	2	2020
+4	organ pipe	0.0071	-0.7124	4	0	0	3	2017
+5	role	-0.5135	0.5225	2	1	2	2	2021.5
+6	single reed woodwind instrument	-0.7027	-0.0155	5	0	0	2	2021
+7	sound synthesis	0.7143	0.0151	1	2	2	2	2019.5
+8	wind instrument	0.522	-0.355	1	2	2	7	2019.2857

@@ -1,0 +1,31 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+1	acoustical interaction	-0.2865	0.7499	3	2	8	2	2010
+2	bamboo flute	0.4116	0.6137	4	3	55	5	2007
+3	brass	-0.1975	0.7843	3	2	8	2	2010
+4	digital waveguide modeling	-0.6763	-0.3973	2	8	28	2	2010
+5	energy	0.7748	-0.1065	1	9	20	2	2009
+6	excitation	0.7487	0.082	1	9	20	2	2009
+7	flow	0.0973	0.782	4	3	60	6	2007
+8	flute	0.2344	0.7288	4	3	39	3	2007
+9	frequency	-0.4194	0.6494	3	5	26	4	2008
+10	hole	-0.1028	0.8023	4	3	28	2	2007
+11	longitudinal wave	-0.5687	-0.5502	2	9	23	2	2008.5
+12	optimal control theory	0.7709	-0.0081	1	9	36	4	2009
+13	optimization criterion	0.5439	-0.5184	1	9	20	2	2009
+14	organ pipe	-0.505	0.5634	3	3	28	6	2006.8333
+15	oscillation regime	0.4783	-0.5502	1	9	20	2	2009
+16	oscillator	-0.6141	0.4012	3	3	18	2	2006
+17	pipe	-0.71	-0.0103	2	12	57	8	2007.375
+18	playing frequency	0.7298	-0.2983	1	9	20	2	2009
+19	pressure	0.6145	-0.4616	1	9	20	2	2009
+20	simulation	-0.6286	-0.4794	2	9	47	6	2008.8333
+21	space variable	0.6798	-0.3846	1	9	20	2	2009
+22	spherical wave	-0.7237	-0.2019	2	9	23	2	2008.5
+23	statespace representation	-0.3	-0.6889	2	8	39	3	2010
+24	time domain	-0.2038	-0.6994	2	8	28	2	2010
+25	total generation	0.7162	0.1488	1	9	20	2	2009
+26	visco thermal loss	-0.4949	-0.6071	2	9	23	2	2008.5
+27	waveguide modeling	-0.7192	-0.2802	2	5	14	2	2007
+28	webster horn equation	0.7616	-0.2055	1	9	20	2	2009
+29	websterlokshin model	-0.399	-0.6605	2	8	28	2	2010
+30	wind instrument intonation	-0.0124	0.8028	5	0	0	2	2010

@@ -1,0 +1,14 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+1	analysis	-0.7386	0.2533	1	5	6	2	2024
+2	excitation mechanism	0.8876	-0.2233	2	4	7	3	2024
+3	hole	0.894	0.1813	2	3	3	2	2023
+4	influence	-0.5879	0.364	1	5	6	3	2023.6667
+5	jet velocity	-0.2484	0.1109	1	6	7	2	2023
+6	pipe	-0.2592	-0.0459	1	6	7	2	2023
+7	recording	0.7211	0.2157	2	3	4	2	2023.5
+8	resonator	0.3768	-0.0037	2	7	9	4	2023
+9	sound synthesis	-1.2005	-0.3235	1	2	3	2	2022
+10	tonehole	0.7255	-0.299	2	5	8	3	2023.3333
+11	tube	-0.8095	-0.0185	1	6	7	2	2022.5
+12	wind instrument	-0.74	-0.1857	1	6	8	3	2022
+13	woodwind instrument	0.979	-0.0257	2	4	5	2	2024.5

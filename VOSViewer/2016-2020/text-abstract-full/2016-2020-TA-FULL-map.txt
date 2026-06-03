@@ -1,0 +1,30 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+1	acoustic oscillation	-0.701	0.3928	2	5	70	5	2019
+2	air	-0.7818	-0.4038	3	5	28	2	2018
+3	arnold tongue	-0.9914	0.0457	5	3	21	3	2016
+4	artificial mouth	0.6399	0.0911	1	7	33	3	2018
+5	bandwidth	-0.6462	-0.4725	3	5	48	4	2018
+6	coupling mechanism	-0.9702	0.2094	5	3	16	2	2016
+7	crone controller	0.5375	-0.1464	1	7	24	2	2018
+8	dual computer communication	1.0548	0.4873	6	2	12	3	2020
+9	excitation model	0.9732	-0.5055	1	4	12	2	2017
+10	flute	0.2176	-0.0481	4	11	19	2	2017
+11	foot chamber	-0.4254	0.4845	2	5	34	2	2019
+12	frequency	-0.4029	-0.0189	4	12	55	6	2017.6667
+13	helmholtz resonator	-0.574	0.473	2	5	34	2	2019
+14	hybrid wind instrument	1.0895	-0.3802	1	4	12	2	2017
+15	initial transient	-0.1191	0.3311	7	2	30	5	2019
+16	length	-0.5104	-0.5151	3	5	28	2	2018
+17	modelling	0.7124	-0.1241	1	10	31	3	2017.6667
+18	optimization method	-0.051	-0.2502	4	4	6	3	2018
+19	order	0.6684	0.2754	6	9	19	3	2018.6667
+20	parameter	0.6962	-0.201	1	10	20	3	2018
+21	physical model	1.1365	-0.2183	1	4	12	2	2017
+22	pipe	-0.4576	0.0144	2	17	174	23	2017.6957
+23	pressure	0.2209	0.0474	1	9	34	3	2018.3333
+24	steady state	-0.8029	0.3018	2	5	34	2	2019
+25	synchronization experiment	-0.9856	-0.1158	5	3	16	2	2016
+26	technology	0.8885	0.6557	6	2	12	4	2020
+27	transducer	-0.8486	-0.2881	3	5	48	4	2018
+28	tuning	-0.1023	-0.3362	4	4	12	3	2016
+29	wind musical instrument	0.5351	0.2147	1	7	24	3	2018.3333

@@ -1,0 +1,20 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+1	axisymmetric acoustic pipe	-0.7489	-0.2794	1	10	18	2	2008.5
+2	cross section	-0.8107	0.1393	1	10	18	2	2008.5
+3	effect	-0.081	-0.2297	2	15	20	3	2008.3333
+4	energy	0.9151	0.5684	3	4	8	2	2009
+5	excitation	0.755	0.7485	3	4	8	2	2009
+6	frequency	0.7004	0.0264	3	11	17	4	2008.5
+7	influence	0.5145	-0.6739	2	7	9	2	2007
+8	instrument	0.1106	0.1416	3	18	40	11	2008.8182
+9	longitudinal wave	-0.6913	0.378	1	10	18	2	2008.5
+10	optimization criterion	0.8262	0.6881	3	4	8	2	2009
+11	organ pipe	0.4625	-0.7195	2	7	10	3	2007.6667
+12	pipe	-0.1185	-0.2221	2	14	14	3	2007.6667
+13	propagation	-0.615	0.4398	1	10	19	3	2008.6667
+14	simulation	-0.7275	0.312	1	10	19	4	2008.25
+15	sound	0.5823	-0.5436	2	8	17	6	2008.1667
+16	spherical wave	-0.8222	-0.0475	1	10	18	2	2008.5
+17	visco thermal loss	-0.7893	-0.2014	1	10	18	2	2008.5
+18	wall	-0.1151	-0.0916	1	13	23	3	2009
+19	wall vibration	0.653	-0.4332	2	7	10	2	2009

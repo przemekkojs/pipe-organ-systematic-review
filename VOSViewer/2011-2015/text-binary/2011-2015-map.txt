@@ -1,0 +1,4 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Occurrences>	score<Avg. pub. year>
+1	clarinet	-0.3694	-0.341	1	1	2	2014.5
+2	numerical simulation	-0.369	0.3411	1	1	2	2014
+3	wind instrument	0.7384	-0.0001	2	0	2	2014.5

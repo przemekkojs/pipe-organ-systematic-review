@@ -1,0 +1,63 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+1	acoustic oscillation	-0.848	0.1102	1	13	166	9	2021.2222
+2	acoustic resonator	-0.1716	0.6782	2	6	25	4	2020
+3	adachisato model	0.6588	0.5127	2	4	12	2	2023
+4	air	-0.4403	0.7259	6	5	24	3	2019.6667
+5	air duct	0.6818	0.0207	5	7	38	2	2024
+6	arnold tongue	-0.045	-0.835	7	2	12	3	2016
+7	artificial mouth	-0.1299	-0.6633	4	6	27	3	2018
+8	asymmetrical undercutting	0.8283	0.1489	5	7	54	3	2024
+9	aulos	-0.0215	0.8372	2	2	20	4	2021
+10	bandwidth	-0.16	0.8327	6	5	40	4	2018
+11	cavitation effect	0.5902	-0.3651	3	7	28	2	2026
+12	challenge	0.6337	-0.5707	3	8	17	2	2022.5
+13	clarinet	0.3583	0.7718	2	6	12	2	2020.5
+14	constant input power	0.5154	-0.6817	3	7	28	2	2026
+15	coupling mechanism	0.3835	-0.7721	7	2	10	2	2016
+16	crone controller	-0.5202	-0.6397	4	6	20	2	2018
+17	damping controlled regime	-0.6338	-0.2917	1	11	62	2	2024
+18	dual computer communication	0.2258	-0.8243	3	2	15	3	2020
+19	effective radius	0.7421	0.4087	5	7	54	3	2024
+20	eigenfrequency	0.8031	0.2871	5	7	38	2	2024
+21	emergence	-0.3056	-0.7861	3	2	12	2	2020
+22	excitation model	-0.5566	0.6208	2	4	12	2	2017
+23	expansion angle	0.4825	-0.5278	3	7	39	3	2026
+24	flue organ pipe	-0.7018	0.096	1	13	46	2	2021.5
+25	flute	0.1532	-0.402	4	10	26	4	2019.5
+26	flute wind musical instrument	-0.2712	-0.529	4	8	17	2	2020
+27	foot	-0.6404	0.2788	1	13	230	10	2023.5
+28	foot chamber	-0.6237	-0.549	1	7	26	2	2019
+29	helmholtz resonator	-0.8513	-0.035	1	13	58	3	2020.6667
+30	hole	0.3115	-0.0186	5	13	95	8	2022.5
+31	hybrid wind instrument	-0.3687	0.5913	2	4	12	2	2017
+32	initial transient	-0.1794	-0.83	3	2	15	5	2019
+33	jet	-0.8112	0.2601	1	11	90	3	2024
+34	khlui	0.8424	0.0125	2	2	12	3	2021
+35	khlui sound	0.5389	0.3707	2	2	10	2	2021
+36	length	-0.2203	0.2441	6	9	30	3	2019.3333
+37	modal analysis	0.2291	0.8128	2	3	8	2	2018
+38	modal representation	0.1044	0.8246	2	3	8	2	2018
+39	modelling	-0.3881	-0.0372	4	10	27	3	2017.6667
+40	numerical simulation	0.3174	-0.6512	3	9	40	4	2022.5
+41	optimization method	0.8237	-0.1606	4	4	7	3	2018
+42	organ pipe nozzle	0.7824	-0.3196	3	7	28	2	2026
+43	oscillation	-0.7007	-0.1053	1	11	90	3	2024
+44	physical model	0.013	0.59	2	8	19	3	2019
+45	pressure	-0.4102	-0.7064	4	8	27	3	2018.3333
+46	pressure oscillation	-0.673	0.5037	1	11	62	2	2024
+47	relative phase	-0.7535	0.3956	1	11	90	3	2024
+48	resonance frequency	-0.7832	-0.312	1	13	76	3	2022.3333
+49	resonant frequency	0.2357	0.6103	6	12	33	2	2021
+50	schumacher model	0.4167	0.5544	2	4	12	2	2023
+51	sound synthesis	0.5913	0.6039	2	8	27	5	2021.2
+52	steady state	-0.7123	-0.4544	1	7	26	2	2019
+53	synchronization experiment	0.0836	-0.8456	7	2	10	2	2016
+54	technology	0.1409	-0.6853	3	9	30	5	2021.2
+55	theory	-0.5224	0.4502	6	16	45	2	2021
+56	throat diameter	0.7214	-0.4517	3	7	39	3	2026
+57	tonehole	0.4773	0.6939	5	9	70	8	2021.625
+58	transducer	-0.3059	0.7861	6	5	40	4	2018
+59	tuning	0.6776	-0.19	4	3	9	4	2018.5
+60	ue organ pipe	-0.8343	-0.1838	1	13	76	3	2022.3333
+61	wind musical instrument	-0.4395	-0.423	4	8	17	3	2019.6667
+62	woodwind instrument	0.6597	0.2133	5	7	40	5	2023

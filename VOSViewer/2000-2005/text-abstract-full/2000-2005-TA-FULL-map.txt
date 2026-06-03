@@ -1,0 +1,22 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+1	acoustic power integral	0.4344	-0.5884	3	4	12	2	2003
+2	air column	-0.5707	-0.5409	1	5	27	3	2004
+3	aliasing	-0.7208	-0.2692	1	1	2	2	2005
+4	calibration	-0.4168	0.6699	1	2	4	2	2003
+5	clarinet	-0.5386	0.5478	1	4	7	5	2004
+6	discrete time simulation	-0.203	0.7995	4	2	6	2	2002
+7	equation	-0.0794	0.8197	4	3	7	3	2003
+8	extension	0.6105	0.3785	2	6	24	2	2003
+9	extension length	0.7002	-0.2632	2	6	24	2	2003
+10	flow tone	0.7415	-0.0695	2	8	31	3	2003
+11	level change	-0.6521	-0.435	1	5	20	2	2004
+12	organ pipe	-0.4871	-0.6034	1	5	27	3	2004
+13	pipe	0.7383	-0.1659	2	6	33	3	2003
+14	pipeline cavity system	0.719	0.0345	2	8	31	3	2003
+15	pressure amplitude	0.5393	0.4507	2	6	24	2	2003
+16	single reed wind instrument	0.0754	0.8063	4	2	4	2	2002.5
+17	tone	0.636	-0.369	3	8	25	4	2003.25
+18	tube	-0.7376	-0.0266	1	6	14	6	2004.6667
+19	vorticity	0.3113	-0.6347	3	4	12	2	2003
+20	wall resonance	-0.3999	-0.6355	1	5	20	2	2004
+21	wind instrument	-0.6999	0.0944	1	8	16	3	2004

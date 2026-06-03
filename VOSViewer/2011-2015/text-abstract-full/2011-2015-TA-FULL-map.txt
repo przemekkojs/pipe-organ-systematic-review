@@ -1,0 +1,32 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+1	2d model	-0.5755	-0.5278	2	6	28	2	2013
+2	3d model	-0.6419	-0.4443	2	6	39	3	2013
+3	acoustic oscillation	-0.4876	-0.6031	2	6	39	3	2013
+4	acoustic regime	0.0081	0.7941	3	1	3	3	2014
+5	blend	-0.0211	-0.7447	5	2	16	4	2015
+6	centerline	0.7595	-0.0823	1	7	40	2	2013
+7	control parameter	0.3411	0.6773	3	5	10	2	2014.5
+8	foot model	0.6119	-0.4601	1	7	72	4	2013
+9	formant	-0.367	-0.6721	5	2	12	2	2015
+10	formant structure	-0.2165	-0.7222	5	2	12	2	2015
+11	inharmonicity	0.5858	0.4689	3	4	12	2	2015
+12	jet	0.1387	-0.608	1	14	107	10	2013.1
+13	jet motion	-0.7193	-0.2591	2	6	28	2	2013
+14	jet velocity	-0.6879	-0.3545	2	6	39	3	2013
+15	labial organ pipe	0.1308	0.7741	6	1	6	2	2015
+16	natural frequencies computation	-0.2205	0.7665	7	0	0	2	2015
+17	natural instability	0.3992	-0.6283	1	7	40	2	2013
+18	numerical simulation	0.7258	0.0269	1	12	42	4	2013.5
+19	numerical stability	-0.331	0.7197	8	0	0	2	2015
+20	optimization	-0.4594	0.6289	4	3	20	2	2012
+21	optimum position	0.7543	-0.1661	1	7	40	2	2013
+22	oscillation	0.6846	-0.3595	1	8	55	5	2013.4
+23	oscillation mechanism	0.5218	-0.5457	1	3	14	2	2013
+24	oscillation threshold	0.6898	0.3068	3	4	7	2	2014.5
+25	playing frequency	0.4567	0.5989	3	4	15	3	2015
+26	semi empirical theory	-0.7285	-0.1627	2	6	28	2	2013
+27	sound design	-0.7372	0.1752	4	3	36	6	2012
+28	sound quality	-0.6725	0.3515	4	3	20	3	2013
+29	synthesis parameter	-0.5627	0.5231	4	3	20	2	2012
+30	tuning slot pipe	-0.1092	0.7902	6	1	6	3	2015
+31	upper lip	0.7297	-0.2616	1	7	86	6	2012.8333

@@ -1,0 +1,5 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+1	design	-0.2633	0.4936	1	2	4	3	2009.3333
+2	optimal control theory	-0.6399	-0.1933	1	2	4	2	2009
+3	organ pipe	0.8754	0.0173	2	0	0	2	2007.5
+4	wind instrument	0.0278	-0.3176	1	2	4	4	2008.75
